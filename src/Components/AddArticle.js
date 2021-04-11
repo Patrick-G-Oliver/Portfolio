@@ -95,7 +95,7 @@ const AddArticle = (props) => {
                     value={formState.category}
                     onChange={inputChange}
                 >
-                    <option value="1">Ecucation</option>
+                    <option value="1">Education</option>
                     <option value="2">Recreation</option>
                     <option value="3">Cooking</option>
                     <option value="4">Shopping</option>
